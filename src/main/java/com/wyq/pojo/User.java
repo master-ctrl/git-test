@@ -14,11 +14,9 @@ public class User {
     private Integer age;
     private Integer gender;
     private Double height;
-    private String email;
     private Double weight;
     private String phone;
+    private String email;
     private String address;
-
-
     private Date birthday;
 }
