@@ -12,4 +12,5 @@ public class User {
     private Integer age;
     private Integer gender;
     private Double weight;
+    private Double height;
 }
