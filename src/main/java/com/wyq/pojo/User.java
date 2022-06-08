@@ -1,5 +1,7 @@
 package com.wyq.pojo;
 
+import java.util.Date;
+
 /**
  * Description： 用户类
  *
@@ -15,4 +17,7 @@ public class User {
     private Double weight;
     private String phone;
     private String address;
+
+
+    private Date birthday;
 }
