@@ -14,4 +14,5 @@ public class User {
     private Double height;
     private Double weight;
     private String phone;
+    private String address;
 }
